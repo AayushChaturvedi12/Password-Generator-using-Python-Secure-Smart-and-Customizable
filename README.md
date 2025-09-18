@@ -1,0 +1,2 @@
+# Password-Generator-using-Python-Secure-Smart-and-Customizable
+This is a simple password generator application that allows users to create secure passwords of a specified length.The application prompts the user for the desired password length,generates a random password using a combination of uppercase letters, lowercase letters, digits, and special characters,and displays the generated password on the screen.
